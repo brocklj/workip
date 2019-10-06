@@ -2,6 +2,8 @@
 
 ## Startup
 
+create environment
+
 activate environment
  ``` . venv/bin/activate ```
 
