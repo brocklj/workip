@@ -2,7 +2,7 @@
 
 ## Startup
 
-acticate environment
+activate environment
  ``` . venv/bin/activate ```
 
  run
